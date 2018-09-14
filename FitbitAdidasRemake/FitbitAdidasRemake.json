@@ -1,0 +1,123 @@
+{
+    "Background": {
+        "Image": {
+            "X": 0,
+            "Y": 0,
+            "ImageIndex": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Tens": {
+                "X": 7,
+                "Y": 35,
+                "ImageIndex": 10,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 47,
+                "Y": 35,
+                "ImageIndex": 10,
+                "ImagesCount": 10
+            }
+        },
+        "Minutes": {
+            "Tens": {
+                "X": 93,
+                "Y": 35,
+                "ImageIndex": 10,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 133,
+                "Y": 35,
+                "ImageIndex": 10,
+                "ImagesCount": 10
+            }
+        }
+    },
+    "Date": {
+        "WeekDay": {
+            "X": 7,
+            "Y": 154,
+            "ImageIndex": 30,
+            "ImagesCount": 7
+        },
+        "MonthAndDay": {
+            "TwoDigitsMonth": true,
+            "TwoDigitsDay": true,
+            "OneLine": {
+                "Number": {
+                    "TopLeftX": 40,
+                    "TopLeftY": 154,
+                    "BottomRightX": 82,
+                    "BottomRightY": 163,
+                    "Alignment": "TopLeft",
+                    "Spacing": 2,
+                    "ImageIndex": 20,
+                    "ImagesCount": 10
+                },
+                "DelimiterImageIndex": 40
+            }
+        }
+    },
+    "Activity": {
+        "Steps": {
+            "TopLeftX": 93,
+            "TopLeftY": 154,
+            "BottomRightX": 151,
+            "BottomRightY": 163,
+            "Alignment": "TopRight",
+            "Spacing": 2,
+            "ImageIndex": 20,
+            "ImagesCount": 10
+        }
+    },
+    "StepsProgress": {
+        "Linear": {
+          "StartImageIndex": 50,
+          "Segments": [
+                {
+                "X": 9,
+                "Y": 170
+                },
+                {
+                "X": 25,
+                "Y": 170
+                },
+                {
+                "X": 41,
+                "Y": 170
+                },
+                {
+                "X": 57,
+                "Y": 170
+                },
+                {
+                "X": 73,
+                "Y": 170
+                },
+                {
+                "X": 89,
+                "Y": 170
+                },
+                {
+                "X": 105,
+                "Y": 170
+                },
+                {
+                "X": 121,
+                "Y": 170
+                },
+                {
+                "X": 137,
+                "Y": 170
+                },
+                {
+                "X": 153,
+                "Y": 170
+                }
+            ]
+        }
+    }
+}
