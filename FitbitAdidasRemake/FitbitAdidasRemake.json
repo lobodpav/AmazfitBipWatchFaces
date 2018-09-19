@@ -48,7 +48,7 @@
             "TwoDigitsDay": true,
             "OneLine": {
                 "Number": {
-                    "TopLeftX": 40,
+                    "TopLeftX": 42,
                     "TopLeftY": 154,
                     "BottomRightX": 82,
                     "BottomRightY": 163,
