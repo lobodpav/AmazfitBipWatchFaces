@@ -33,13 +33,13 @@
         },
         "Minutes": {
             "Tens": {
-                "X": 93,
+                "X": 92,
                 "Y": 35,
                 "ImageIndex": 10,
                 "ImagesCount": 10
             },
             "Ones": {
-                "X": 133,
+                "X": 132,
                 "Y": 35,
                 "ImageIndex": 10,
                 "ImagesCount": 10
@@ -73,9 +73,9 @@
     },
     "Activity": {
         "Steps": {
-            "TopLeftX": 93,
+            "TopLeftX": 92,
             "TopLeftY": 154,
-            "BottomRightX": 151,
+            "BottomRightX": 150,
             "BottomRightY": 163,
             "Alignment": "TopRight",
             "Spacing": 2,
@@ -88,43 +88,43 @@
           "StartImageIndex": 50,
           "Segments": [
                 {
-                "X": 9,
+                "X": 8,
                 "Y": 170
                 },
                 {
-                "X": 25,
+                "X": 24,
                 "Y": 170
                 },
                 {
-                "X": 41,
+                "X": 40,
                 "Y": 170
                 },
                 {
-                "X": 57,
+                "X": 56,
                 "Y": 170
                 },
                 {
-                "X": 73,
+                "X": 72,
                 "Y": 170
                 },
                 {
-                "X": 89,
+                "X": 88,
                 "Y": 170
                 },
                 {
-                "X": 105,
+                "X": 104,
                 "Y": 170
                 },
                 {
-                "X": 121,
+                "X": 120,
                 "Y": 170
                 },
                 {
-                "X": 137,
+                "X": 136,
                 "Y": 170
                 },
                 {
-                "X": 153,
+                "X": 152,
                 "Y": 170
                 }
             ]
