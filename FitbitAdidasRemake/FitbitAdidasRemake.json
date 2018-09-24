@@ -16,6 +16,14 @@
             "ImageIndexOff": 71
         }
     },
+    "Battery": {
+        "Icon": {
+            "X": 154,
+            "Y": 7,
+            "ImageIndex": 80,
+            "ImagesCount": 21
+        }
+    },
     "Time": {
         "Hours": {
             "Tens": {
