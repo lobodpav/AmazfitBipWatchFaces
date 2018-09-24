@@ -6,6 +6,16 @@
             "ImageIndex": 0
         }
     },
+    "Status": {
+        "Bluetooth": {
+            "Coordinates": {
+                "X": 7,
+                "Y": 7
+            },
+            "ImageIndexOn": 70,
+            "ImageIndexOff": 71
+        }
+    },
     "Time": {
         "Hours": {
             "Tens": {
